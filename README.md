@@ -1,7 +1,5 @@
 Made by vetra
 
-Clean Rust/EAC traces and uninstall programs with advanced scanning.
-
 ## Installing Requirements
 
 ```bash
