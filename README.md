@@ -1,2 +1,19 @@
-# rustcleaner
-cleaner for cleaners.
+Made by vetra
+
+Clean Rust/EAC traces and uninstall programs with advanced scanning.
+
+## Installing Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+python main.py
+```
+
+1. Click "Scan"
+2. Select items
+3. Click "Clean Selected"
