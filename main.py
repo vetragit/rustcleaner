@@ -1,5 +1,4 @@
 """
-Advanced Cleaner & Uninstaller
 Made by vetraservices
 """
 
